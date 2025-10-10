@@ -1,1 +1,1 @@
-size:374kb|size:11715kb|size:4321kb|size:17065kb|size:15036kb|size:19697kb|size:11526kb|size:27071kb|size:382976b|\nix exe|cfg|64\nix
+size:374kb|size:11715kb|size:4321kb|size:17065kb|size:15036kb|size:19697kb|size:11526kb|size:27071kb|size:382976b|\nix exe|cfg|64\nix|zip писюн вани отсох
