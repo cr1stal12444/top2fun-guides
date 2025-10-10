@@ -1,1 +1,1 @@
-##unload_popup|Spectator List|Unload Osiris 123
+##unload_popup|Spectator List|Unload Osiris
