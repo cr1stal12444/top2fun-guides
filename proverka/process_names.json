@@ -1,22 +1,28 @@
 {
   "processes": [
-    {
-      "processName": "midnight.exe",
-      "cheatName": "Midnight Cheat",
-      "riskLevel": "critical",
-      "description": "Основной процесс Midnight чита"
-    },
-    {
-      "processName": "interium.exe", 
-      "cheatName": "Interium Cheat",
-      "riskLevel": "critical",
-      "description": "Основной процесс Interium"
-    },
-    {
-      "processName": "xone.exe",
-      "cheatName": "Xone Cheat",
-      "riskLevel": "critical", 
-      "description": "Чит платформа Xone"
-    }
+    {"processName": "midnight.exe", "cheatName": "Midnight Cheat", "riskLevel": "critical", "description": "Основной процесс Midnight"},
+    {"processName": "midnight_loader.exe", "cheatName": "Midnight Cheat", "riskLevel": "critical", "description": "Лоадер Midnight"},
+    {"processName": "xone.exe", "cheatName": "Xone Cheat", "riskLevel": "critical", "description": "Основной процесс Xone"},
+    {"processName": "interium.exe", "cheatName": "Interium Cheat", "riskLevel": "critical", "description": "Основной процесс Interium"},
+    {"processName": "espd2x.exe", "cheatName": "ESPD2X Cheat", "riskLevel": "critical", "description": "Процесс ESPD2X"},
+    {"processName": "avira.exe", "cheatName": "Avira Cheat", "riskLevel": "critical", "description": "Процесс Avira"},
+    {"processName": "exloader.exe", "cheatName": "ExLoader", "riskLevel": "critical", "description": "Инжектор ExLoader"},
+    {"processName": "wallhack.exe", "cheatName": "Wallhack Generic", "riskLevel": "high", "description": "Процесс Wallhack"},
+    {"processName": "wh.exe", "cheatName": "Wallhack Generic", "riskLevel": "high", "description": "Сокращение Wallhack"},
+    {"processName": "esp.exe", "cheatName": "Wallhack Generic", "riskLevel": "high", "description": "ESP процесс"},
+    {"processName": "skinchanger.exe", "cheatName": "Skin Changer", "riskLevel": "medium", "description": "Чит для скинов"},
+    {"processName": "extrimhack.exe", "cheatName": "ExtrimHack", "riskLevel": "critical", "description": "Процесс ExtrimHack"},
+    {"processName": "primordial.exe", "cheatName": "Primordial Cheat", "riskLevel": "critical", "description": "Процесс Primordial"},
+    {"processName": "skeet.exe", "cheatName": "Skeet Cheat", "riskLevel": "critical", "description": "Процесс Skeet"},
+    {"processName": "gamesense.exe", "cheatName": "GameSense", "riskLevel": "critical", "description": "Процесс GameSense"},
+    {"processName": "neverlose.exe", "cheatName": "Neverlose", "riskLevel": "critical", "description": "Процесс Neverlose"},
+    {"processName": "nixware.exe", "cheatName": "Nixware", "riskLevel": "critical", "description": "Процесс Nixware"},
+    {"processName": "aimware.exe", "cheatName": "Aimware", "riskLevel": "critical", "description": "Процесс Aimware"},
+    {"processName": "vredux.exe", "cheatName": "VRedux", "riskLevel": "critical", "description": "Процесс VRedux"},
+    {"processName": "neverkernel.exe", "cheatName": "NeverKernel", "riskLevel": "critical", "description": "Kernel процесс NeverKernel"},
+    {"processName": "predator.exe", "cheatName": "Predator Cheat", "riskLevel": "critical", "description": "Процесс Predator"},
+    {"processName": "aquila.exe", "cheatName": "Aquila Cheat", "riskLevel": "critical", "description": "Процесс Aquila"},
+    {"processName": "injector.exe", "cheatName": "Generic Injector", "riskLevel": "critical", "description": "Общий инжектор"},
+    {"processName": "loader.exe", "cheatName": "Generic Loader", "riskLevel": "critical", "description": "Общий лоадер"}
   ]
 }
