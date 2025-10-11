@@ -16,17 +16,5 @@
     "cheatName": "Xone Cheat",
     "riskLevel": "critical",
     "description": "Основной процесс Xone"
-  },
-  {
-    "processName": "wallhack.exe",
-    "cheatName": "Wallhack Generic",
-    "riskLevel": "high",
-    "description": "Процесс Wallhack"
-  },
-  {
-    "processName": "wh.exe",
-    "cheatName": "Wallhack Generic",
-    "riskLevel": "high",
-    "description": "Сокращение Wallhack"
   }
 ]
