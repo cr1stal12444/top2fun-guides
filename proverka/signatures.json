@@ -1,1 +1,26 @@
-
+{
+  "signatures": [
+    {
+      "id": "midnight",
+      "name": "Midnight Cheat",
+      "type": "CS2 External",
+      "riskLevel": "critical",
+      "processes": ["midnight.exe", "midnight_loader.exe", "midnight.bin"],
+      "files": ["midnight.dll", "midnight.dat", "midnight_config.json"],
+      "folders": ["midnight", "midnight_cheat", "MidnightCS2"],
+      "registryKeys": ["Software\\Midnight", "Software\\MidnightCS2"],
+      "description": "Популярный внешний чит для CS2"
+    },
+    {
+      "id": "interium",
+      "name": "Interium Cheat", 
+      "type": "CS2 Cheat Loader",
+      "riskLevel": "critical",
+      "processes": ["interium.exe", "interium_loader.exe", "interium.bin"],
+      "files": ["interium.dll", "interium.dat"],
+      "folders": ["interium", "interiumcheat"],
+      "registryKeys": ["Software\\Interium"],
+      "description": "Чит платформа Interium"
+    }
+  ]
+}
