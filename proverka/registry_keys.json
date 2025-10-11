@@ -1,0 +1,18 @@
+{
+  "registryKeys": [
+    {"keyPath": "Software\\Midnight", "cheatName": "Midnight Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\Xone", "cheatName": "Xone Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\Interium", "cheatName": "Interium Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\ESPD2X", "cheatName": "ESPD2X Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\Avira", "cheatName": "Avira Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\ExtrimHack", "cheatName": "ExtrimHack", "riskLevel": "critical"},
+    {"keyPath": "Software\\Primordial", "cheatName": "Primordial Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\Skeet", "cheatName": "Skeet Cheat", "riskLevel": "critical"},
+    {"keyPath": "Software\\GameSense", "cheatName": "GameSense", "riskLevel": "critical"},
+    {"keyPath": "Software\\Neverlose", "cheatName": "Neverlose", "riskLevel": "critical"},
+    {"keyPath": "Software\\Nixware", "cheatName": "Nixware", "riskLevel": "critical"},
+    {"keyPath": "Software\\Aimware", "cheatName": "Aimware", "riskLevel": "critical"},
+    {"keyPath": "Software\\VRedux", "cheatName": "VRedux", "riskLevel": "critical"},
+    {"keyPath": "Software\\NeverKernel", "cheatName": "NeverKernel", "riskLevel": "critical"}
+  ]
+}
