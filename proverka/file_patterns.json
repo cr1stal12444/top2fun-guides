@@ -18,12 +18,6 @@
     "type": "file"
   },
   {
-    "pattern": "*wallhack*",
-    "cheatName": "Wallhack Generic",
-    "riskLevel": "high",
-    "type": "file"
-  },
-  {
     "pattern": "*.ahk",
     "cheatName": "AutoHotkey Scripts",
     "riskLevel": "medium",
