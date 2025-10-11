@@ -1,33 +1,33 @@
-{
-  "patterns": [
-    {"pattern": "*midnight*", "cheatName": "Midnight Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*xone*", "cheatName": "Xone Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*interium*", "cheatName": "Interium Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*espd2x*", "cheatName": "ESPD2X Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*avira*", "cheatName": "Avira Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*exloader*", "cheatName": "ExLoader", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*wallhack*", "cheatName": "Wallhack Generic", "riskLevel": "high", "type": "file"},
-    {"pattern": "*wh*", "cheatName": "Wallhack Generic", "riskLevel": "high", "type": "file"},
-    {"pattern": "*esp*", "cheatName": "Wallhack Generic", "riskLevel": "high", "type": "file"},
-    {"pattern": "*skinchanger*", "cheatName": "Skin Changer", "riskLevel": "medium", "type": "file"},
-    {"pattern": "*extrimhack*", "cheatName": "ExtrimHack", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*primordial*", "cheatName": "Primordial Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*skeet*", "cheatName": "Skeet Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*gamesense*", "cheatName": "GameSense", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*neverlose*", "cheatName": "Neverlose", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*nixware*", "cheatName": "Nixware", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*aimware*", "cheatName": "Aimware", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*vredux*", "cheatName": "VRedux", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*neverkernel*", "cheatName": "NeverKernel", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*predator*", "cheatName": "Predator Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*aquila*", "cheatName": "Aquila Cheat", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*.ahk", "cheatName": "AutoHotkey Scripts", "riskLevel": "medium", "type": "file", "description": "Скрипты AutoHotkey"},
-    {"pattern": "*.amc", "cheatName": "AMC Scripts", "riskLevel": "medium", "type": "file", "description": "AMC скрипты"},
-    {"pattern": "imgui.ini", "cheatName": "ImGui Config", "riskLevel": "medium", "type": "file", "description": "Конфиг ImGui (используется в читах)"},
-    {"pattern": "*injector*", "cheatName": "Generic Injector", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*loader*", "cheatName": "Generic Loader", "riskLevel": "critical", "type": "file"},
-    {"pattern": "*cheat*", "cheatName": "Generic Cheat", "riskLevel": "high", "type": "file"},
-    {"pattern": "*hack*", "cheatName": "Generic Hack", "riskLevel": "high", "type": "file"},
-    {"pattern": "чит*", "cheatName": "Russian Cheats", "riskLevel": "high", "type": "file", "description": "Файлы на русском"}
-  ]
-}
+[
+  {
+    "pattern": "*midnight*",
+    "cheatName": "Midnight Cheat",
+    "riskLevel": "critical",
+    "type": "file"
+  },
+  {
+    "pattern": "*interium*",
+    "cheatName": "Interium Cheat",
+    "riskLevel": "critical",
+    "type": "file"
+  },
+  {
+    "pattern": "*xone*",
+    "cheatName": "Xone Cheat",
+    "riskLevel": "critical",
+    "type": "file"
+  },
+  {
+    "pattern": "*wallhack*",
+    "cheatName": "Wallhack Generic",
+    "riskLevel": "high",
+    "type": "file"
+  },
+  {
+    "pattern": "*.ahk",
+    "cheatName": "AutoHotkey Scripts",
+    "riskLevel": "medium",
+    "type": "file",
+    "description": "Скрипты AutoHotkey"
+  }
+]
