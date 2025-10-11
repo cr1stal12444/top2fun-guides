@@ -12,8 +12,19 @@
       "description": "Популярный внешний чит для CS2"
     },
     {
+      "id": "xone",
+      "name": "Xone Cheat",
+      "type": "CS2 Cheat Loader", 
+      "riskLevel": "critical",
+      "processes": ["xone.exe", "xone_loader.exe", "xone.bin"],
+      "files": ["xone.dll", "xone.dat"],
+      "folders": ["xone", "xonecheat"],
+      "registryKeys": ["Software\\Xone"],
+      "description": "Чит платформа Xone"
+    },
+    {
       "id": "interium",
-      "name": "Interium Cheat", 
+      "name": "Interium Cheat",
       "type": "CS2 Cheat Loader",
       "riskLevel": "critical",
       "processes": ["interium.exe", "interium_loader.exe", "interium.bin"],
@@ -21,6 +32,175 @@
       "folders": ["interium", "interiumcheat"],
       "registryKeys": ["Software\\Interium"],
       "description": "Чит платформа Interium"
+    },
+    {
+      "id": "espd2x", 
+      "name": "ESPD2X Cheat",
+      "type": "CS2 Wallhack",
+      "riskLevel": "critical",
+      "processes": ["espd2x.exe", "espd2x_loader.exe"],
+      "files": ["espd2x.dll", "espd2x.bin"],
+      "folders": ["espd2x", "esp_d2x"],
+      "description": "ESP чит для CS2"
+    },
+    {
+      "id": "avira",
+      "name": "Avira Cheat", 
+      "type": "CS2 External",
+      "riskLevel": "critical",
+      "processes": ["avira.exe", "avira_loader.exe"],
+      "files": ["avira.dll", "avira.bin"],
+      "folders": ["avira", "avira_cheat"],
+      "description": "Чит Avira для CS2"
+    },
+    {
+      "id": "exloader",
+      "name": "ExLoader",
+      "type": "Cheat Injector",
+      "riskLevel": "critical", 
+      "processes": ["exloader.exe", "ex_loader.exe"],
+      "files": ["exloader.dll"],
+      "folders": ["exloader", "ex_loader"],
+      "description": "Инжектор для читов"
+    },
+    {
+      "id": "wallhack",
+      "name": "Wallhack Generic",
+      "type": "CS2 Wallhack",
+      "riskLevel": "high",
+      "processes": ["wallhack.exe", "wh.exe", "esp.exe"],
+      "files": ["wallhack.dll", "wh.dll", "esp.dll"],
+      "folders": ["wallhack", "wh", "esp"],
+      "description": "Общий детект читов сквозных стен"
+    },
+    {
+      "id": "skinchanger",
+      "name": "Skin Changer",
+      "type": "CS2 Skin Hack", 
+      "riskLevel": "medium",
+      "processes": ["skinchanger.exe", "skin_changer.exe"],
+      "files": ["skinchanger.dll", "skin_changer.dll"],
+      "folders": ["skinchanger", "skin_changer"],
+      "description": "Чит для скинов CS2"
+    },
+    {
+      "id": "extrimhack",
+      "name": "ExtrimHack",
+      "type": "CS2 External",
+      "riskLevel": "critical",
+      "processes": ["extrimhack.exe", "extrim_hack.exe"],
+      "files": ["extrimhack.dll", "extrim_hack.dll"],
+      "folders": ["extrimhack", "extrim_hack"],
+      "description": "Чит ExtrimHack для CS2"
+    },
+    {
+      "id": "primordial",
+      "name": "Primordial Cheat",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["primordial.exe", "primordial_loader.exe"],
+      "files": ["primordial.dll"],
+      "folders": ["primordial", "primordial_cheat"],
+      "description": "Чит Primordial"
+    },
+    {
+      "id": "skeet",
+      "name": "Skeet Cheat",
+      "type": "CS2 Legacy",
+      "riskLevel": "critical",
+      "processes": ["skeet.exe", "skeet_loader.exe"],
+      "files": ["skeet.dll"],
+      "folders": ["skeet", "skeet_cheat"],
+      "description": "Легаси чит Skeet"
+    },
+    {
+      "id": "gamesense",
+      "name": "GameSense",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["gamesense.exe", "gs_loader.exe"],
+      "files": ["gamesense.dll"],
+      "folders": ["gamesense", "game_sense"],
+      "description": "Чит GameSense"
+    },
+    {
+      "id": "neverlose",
+      "name": "Neverlose",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["neverlose.exe", "nl_loader.exe"],
+      "files": ["neverlose.dll"],
+      "folders": ["neverlose", "never_lose"],
+      "description": "Чит Neverlose"
+    },
+    {
+      "id": "nixware",
+      "name": "Nixware",
+      "type": "CS2 Cheat", 
+      "riskLevel": "critical",
+      "processes": ["nixware.exe", "nix_loader.exe"],
+      "files": ["nixware.dll"],
+      "folders": ["nixware", "nix_ware"],
+      "description": "Чит Nixware"
+    },
+    {
+      "id": "autohotkey",
+      "name": "AutoHotkey Scripts",
+      "type": "Macro Scripts",
+      "riskLevel": "medium",
+      "files": ["*.ahk"],
+      "folders": ["ahk", "autohotkey"],
+      "description": "Скрипты AutoHotkey - возможные макросы"
+    },
+    {
+      "id": "aimware",
+      "name": "Aimware",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["aimware.exe", "aw_loader.exe"],
+      "files": ["aimware.dll"],
+      "folders": ["aimware", "aim_ware"],
+      "description": "Чит Aimware"
+    },
+    {
+      "id": "vredux",
+      "name": "VRedux",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical", 
+      "processes": ["vredux.exe", "vr_loader.exe"],
+      "files": ["vredux.dll"],
+      "folders": ["vredux", "v_redux"],
+      "description": "Чит VRedux"
+    },
+    {
+      "id": "neverkernel",
+      "name": "NeverKernel",
+      "type": "Kernel Cheat",
+      "riskLevel": "critical",
+      "processes": ["neverkernel.exe", "nk_loader.exe"],
+      "files": ["neverkernel.sys", "nk_driver.sys"],
+      "folders": ["neverkernel", "never_kernel"],
+      "description": "Кernel-level чит NeverKernel"
+    },
+    {
+      "id": "predator",
+      "name": "Predator Cheat",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["predator.exe", "pred_loader.exe"],
+      "files": ["predator.dll"],
+      "folders": ["predator", "predator_cheat"],
+      "description": "Чит Predator"
+    },
+    {
+      "id": "aquila",
+      "name": "Aquila Cheat",
+      "type": "CS2 Cheat",
+      "riskLevel": "critical",
+      "processes": ["aquila.exe", "aq_loader.exe"],
+      "files": ["aquila.dll"],
+      "folders": ["aquila", "aquila_cheat"],
+      "description": "Чит Aquila"
     }
   ]
 }
