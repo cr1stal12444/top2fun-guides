@@ -1,0 +1,22 @@
+{
+  "processes": [
+    {
+      "processName": "midnight.exe",
+      "cheatName": "Midnight Cheat",
+      "riskLevel": "critical",
+      "description": "Основной процесс Midnight чита"
+    },
+    {
+      "processName": "interium.exe", 
+      "cheatName": "Interium Cheat",
+      "riskLevel": "critical",
+      "description": "Основной процесс Interium"
+    },
+    {
+      "processName": "xone.exe",
+      "cheatName": "Xone Cheat",
+      "riskLevel": "critical", 
+      "description": "Чит платформа Xone"
+    }
+  ]
+}
