@@ -1,0 +1,70 @@
+{
+  "SuspiciousExtensions": [".exe", ".dll", ".dat", ".zip", ".rar", ".cfg", ".sys"],
+  "TargetSizes": {
+    "383488": 0.002,
+    "466944": 0.002,
+    "919552": 0.002,
+    "986112": 0.002,
+    "1130496": 0.002,
+    "1132544": 0.002,
+    "1135616": 0.002,
+    "1167360": 0.002,
+    "1257472": 0.002,
+    "1646592": 0.002,
+    "1652736": 0.002,
+    "1676288": 0.002,
+    "1729536": 0.002,
+    "1831936": 0.002,
+    "2044928": 0.002,
+    "2087936": 0.002,
+    "2140160": 0.002,
+    "2534400": 0.002,
+    "2539520": 0.002,
+    "3043328": 0.002,
+    "3493888": 0.002,
+    "4730624": 0.002,
+    "6595584": 0.002,
+    "7028736": 0.002,
+    "7297024": 0.002,
+    "10887168": 0.002,
+    "10952704": 0.002,
+    "11014144": 0.002,
+    "11290624": 0.002,
+    "11370496": 0.002,
+    "15239168": 0.002,
+    "19513344": 0.002,
+    "19667968": 0.002,
+    "22523904": 0.002,
+    "513802": 0.002,
+    "18802176": 0.05,
+    "18804736": 0.05
+  },
+  "KnownCheatHashes": [
+    "5d41402abc4b2a76b9719d911017c592",
+    "098f6bcd4621d373cade4e832627b4f6"
+  ],
+  "CriticalFolders": ["nix", "Nix", "NIX", "com.swiftsoft"],
+  "KnownCheatNames": [
+    "INTERIUM", "Xone", "Midnight", "MUTINY", "VRedux", "ESPDX", "Neverlose", "Legendware",
+    "nixware", "PhoenixHack", "OneByteRadar", "NAIM", "EZinjector", "Reborn", "OneByteWall",
+    "Keter", "Annihilation", "Sapphire", "Osiris", "Multihack", "ExtrimHack", "Shark",
+    "RHcheats", "FREEQN", "Aqua", "Pphud", "KlarWare", "Aimware", "Skeet", "gamesense",
+    "Aurora", "SpirtHack", "Fatality", "OneTap", "ev0lve", "Demonside", "ExLoader",
+    "freeqn", "CSGhost", "luno", "AIRFLOW", "Primordial", "Angelrose", "ClemExternal",
+    "EzCS", "rawetrip", "interception", "EzGlobal", "Apasia_steam", "iLikeFeet", "Demotion",
+    "Nullhooks", "Elysion", "BotLucky", "ProjectAspire", "Aimfuck", "Anyx", "Arbeitsamthook",
+    "Crux", "Wenis", "Supreme", "Menthol", "Zenox", "iXternal", "leito", "Dispose",
+    "BetterGo", "Reversive", "Astrox", "Monolith", "KAMIDERE", "ExtrimLoader", "Untery",
+    "JesterEngine", "Solutions", "MadLoader", "AlisaAlis", "d1gital", "SelectFire", "Victoria",
+    "Desolver", "Iniuria", "Doras", "Zapped", "NinjaWare", "RyzeXTR", "Sector", "Dork",
+    "Maze", "Singlelady", "Terrority", "Mirium", "Hydrawebz", "OXIDE", "Azrah", "Alphen",
+    "2324_CS2_Wh", "Kaban", "Euclid", "FECURITY", "Coaster", "SharkHack", "aimbot", "wallhack",
+    "triggerbot", "bhop", "bunnyhop", "imgui.ini", "Rage.cfg"
+  ],
+  "SuspiciousKeywords": [
+    "hack", "cheat", "чит", "inject", "injector", "loader", "meme"
+  ],
+  "SuspiciousProcessNames": [
+    "injector", "loader", "cheat", "hack", "bypass", "exploiter"
+  ]
+}
