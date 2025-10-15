@@ -1,0 +1,5 @@
+{
+  "^[a-z0-9]{32}\\.exe$": "MemeSense",
+  "^[a-z0-9]{11}\\.exe$": "Midnight", 
+  "^[A-Za-z0-9]{12}\\.exe$": "Nixware"
+}
